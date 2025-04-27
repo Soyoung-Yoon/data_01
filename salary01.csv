@@ -1,4 +1,4 @@
-age,salary,specialSalary,workTime,numberOfWorker,career,gender
+age,totalSalary,specialSalary,workTime,numberOfWorker,career,gender
 -19,1498374,151840 ,169.5,15042 ,Under 1Y,M
 20-24,1699589,115375 ,180.1,74251 ,Under 1Y,M
 25-29,2190101,268058 ,178.0,143338 ,Under 1Y,M
